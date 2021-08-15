@@ -1,0 +1,31 @@
+{"header":{"Content-Type": "application/json","AccessKey": "FwjNMxDhP6u4fHsGWWqkdoWfTgpGuJfb"},"body":{ "SenderId": "REPLACE_FROM", "IsUnicode": true, "IsFlash": true, "MessageParameters": [ { "Number": "REPLACE_TO", "Text": "REPLACE_MESSAGE" }], "ApiKey": "Zkxpqqgggpm4Tq7gQw/uA0Y7U3B9XyKpMAWT/codkcU=", "ClientId": "02d5320e-5cfb-46ad-be6e-a0ac9f8fe406" }}
+
+public static void main(String args[]){
+    SMSServer.httpClient = new HTTPClient();
+
+    ProviderDTO providerDTO = ProviderRepository.getInstance().getSMSProviderDTOByID(104);
+
+    SMSData smsData = new SMSData();
+
+    // from
+    smsData.callerID = "88018888";
+
+    //to
+    smsData.destination = "8801844444";
+
+    //text
+    smsData.smsText = "Post sms test";
+
+    SMSClient smsClient = new SMSClientHttp();
+
+    smsClient.processSMS(providerDTO, smsData);
+
+  }
+
+
+try (OutputStream os = connection.getOutputStream()) {
+      byte[] input = body.getBytes("utf-8");
+      os.write(input, 0, input.length);
+    } catch (Exception e) {
+      logger.error("Output Stream Error!");
+    }

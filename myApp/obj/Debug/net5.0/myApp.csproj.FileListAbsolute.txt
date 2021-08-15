@@ -1,0 +1,16 @@
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp.deps.json
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp.dll
+/home/nahian/codes/myApp/bin/Debug/net5.0/ref/myApp.dll
+/home/nahian/codes/myApp/bin/Debug/net5.0/myApp.pdb
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.dll
+/home/nahian/codes/myApp/obj/Debug/net5.0/ref/myApp.dll
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.pdb
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
+/home/nahian/codes/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache

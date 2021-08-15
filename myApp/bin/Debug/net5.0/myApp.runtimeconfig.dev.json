@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nahian/.dotnet/store/|arch|/|tfm|",
+      "/home/nahian/.nuget/packages"
+    ]
+  }
+}
