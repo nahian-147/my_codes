@@ -1,0 +1,3 @@
+Flex download link: http://gnuwin32.sourceforge.net/packages/flex.htm
+Flex Tutorial link: http://alumni.cs.ucr.edu/~lgao/teaching/flex.html
+Understanding Regular Expression Link: http://blog.hakzone.info/posts-and-articles/editors/understanding-regex-with-notepad/comment-page-1/
